@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Biki.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f9fdc2510d075f715c14fd13ab174f6fd2c0d64")]
 [assembly: System.Reflection.AssemblyProductAttribute("Biki.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Biki.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
