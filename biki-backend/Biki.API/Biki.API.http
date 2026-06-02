@@ -1,0 +1,6 @@
+@Biki.API_HostAddress = http://localhost:5032
+
+GET {{Biki.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
